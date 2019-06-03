@@ -1,0 +1,7 @@
+ötöd,ötödrangú,6,öt,/NUM|[FRACT]|[TYPE_RANK]
+hatod,hatodrangú,8,hat,/NUM|[FRACT]|[TYPE_RANK]
+tized,tizedrangú,11,tíz,/NUM|[FRACT]|[TYPE_RANK]
+század,századrangú,11,száz,/NUM|[FRACT]|[TYPE_RANK]
+hanyad,hányadrangú,1,hány,/NUM|[FRACT]|[TYPE_RANK]
+nyolcad,nyolcadrangú,1,nyolc,/NUM|[FRACT]|[TYPE_RANK]
+ezred,ezredrangú,1,ezer,/NUM|[FRACT]|[TYPE_RANK]
